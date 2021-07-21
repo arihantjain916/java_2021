@@ -29,6 +29,7 @@ class game1 {
         }
         return false;
     }
+    // n.close();
 }
 
 public class game {

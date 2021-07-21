@@ -42,7 +42,6 @@ public class wrapper_class {
         System.out.println();
 
         // Convert object to primitive
-        System.out.println("---> (2) Primitive Values <---");
         byte q =  i;
         int r = j;
         short s = k;
@@ -51,6 +50,7 @@ public class wrapper_class {
         long v = n;
         double w = o;
         char x = p;
+        System.out.println("---> (2) Primitive Values <---");
         System.out.println(q);
         System.out.println(r);
         System.out.println(s);
