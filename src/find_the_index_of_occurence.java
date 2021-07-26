@@ -12,33 +12,32 @@ public class find_the_index_of_occurence {
 
     // to print index from starting
 
-    // public static int index_of_occ(int[] a , int index , int d) {
-    // if(a.length == index){
+    // public static int index_of_occ(int[] a, int index, int d) {
+    // if (a.length == index) {
     // return -1;
     // }
-    // if(d == a[index]){
+    // if (d == a[index]) {
     // return index;
-    // }
-    // else{
-    // int b = index_of_occ(a, index + 1 , d);
+    // } else {
+    // int b = index_of_occ(a, index + 1, d);
     // return b;
     // }
     // }
 
     // To print index from last
+
     // public static int index_of_occ(int[] a, int index, int d) {
     // if (a.length == index) {
     // return -1;
     // }
     // int b = index_of_occ(a, index + 1, d);
-    // if(b == -1){
+    // if (b == -1) {
     // if (d == a[index]) {
     // return index;
     // } else {
     // return -1;
     // }
-    // }
-    // else{
+    // } else {
     // return b;
     // }
     // }

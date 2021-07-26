@@ -14,5 +14,6 @@ public class tower_of_hanoi {
         hanoi(n - 1, helper, dest, src);
 
         // ---> Here we only taken the output from In Order <---
+        // According to Euler Methords
     }
 }
