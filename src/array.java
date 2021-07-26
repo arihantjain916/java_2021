@@ -24,7 +24,7 @@ public class array {
         //     System.out.println();
         // }
 
-        // String [] name = {"Arihant" , "Akshat"};
+        // String [] name = {"Arihant" , "Mahi"};
         // for(String value:name){
         //     System.out.print(value + " ");
         // }
