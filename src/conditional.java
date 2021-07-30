@@ -14,6 +14,7 @@ public class conditional {
         // System.out.print("The output is ");
         // System.out.println(input);
 
+
         // System.out.print("Enter the float number: ");
         // float c = a.nextFloat();
         // System.out.print("The output is ");
@@ -45,47 +46,48 @@ public class conditional {
         //     default:
         //     System.out.println("   l");
         // }
+        a.close();
 
         // WAP TO PRINT DAY NAME USING THE NUMBER OF THAT DAY
         
-        Scanner d = new Scanner(System.in);
-        System.out.print("Enter the number: ");
-        int c = d.nextInt();
+        // Scanner d = new Scanner(System.in);
+        // System.out.print("Enter the number: ");
+        // int c = d.nextInt();
 
-        switch (c){
-            case 1:
-            System.out.println("Sunday");
-            break;
+        // switch (c){
+        //     case 1:
+        //     System.out.println("Sunday");
+        //     break;
 
-            case 2:
-            System.out.println("Monday");
-            break;
+        //     case 2:
+        //     System.out.println("Monday");
+        //     break;
 
-            case 3:
-            System.out.println("Tuesday");
-            break;
+        //     case 3:
+        //     System.out.println("Tuesday");
+        //     break;
 
-            case 4:
-            System.out.println("Wednesday");
-            break;
+        //     case 4:
+        //     System.out.println("Wednesday");
+        //     break;
 
-            case 5:
-            System.out.println("Thursday");
-            break;
+        //     case 5:
+        //     System.out.println("Thursday");
+        //     break;
 
-            case 6:
-            System.out.println("Friday");
-            break;
+        //     case 6:
+        //     System.out.println("Friday");
+        //     break;
 
-            case 7:
-            System.out.println("Saturday");
-            break;
+        //     case 7:
+        //     System.out.println("Saturday");
+        //     break;
 
-            default:
-            System.out.println("Incorrect Input");
-        }
+        //     default:
+        //     System.out.println("Incorrect Input");
+        // }
 
-        // a.close();
-        d.close();
+        // // a.close();
+        // d.close();
 }
 }
